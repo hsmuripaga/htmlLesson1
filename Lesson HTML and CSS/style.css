@@ -1,0 +1,30 @@
+
+.roboto-uniquifier {
+    font-family: "Roboto", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
+  
+li {font-size: 30px;
+    color: midnightblue;}
+
+.hia {color: rgb(150, 150, 80);}
+.hia {color: #462085;}
+
+label { font-size: 30px;
+        color: midnightblue;
+        text-decoration: dotted;
+        font-weight: 100;
+        text-align: justify;
+      }
+
+form{ border: 5px solid black ;
+      padding: 10px;
+      margin: 10px;
+    }
+.mema{ padding: 10px;
+
+} 
